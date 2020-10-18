@@ -304,3 +304,4 @@ Card.prototype.registerClick = function($this) {
       }, showTime);
     }
   }
+}
